@@ -6,7 +6,9 @@ I am now learning markdown language and try to utilise here.
 We can use '#' one to six times for different sizes of heading '#' for biggest and '######' for smallest.
 ### Bold
 **Adding two asterisk in beginning and in end**
+
 OR
+
 __Adding two underscores in the beginning and in end__
 ### Italic
 *Adding one asterisk in beginning and in end*
