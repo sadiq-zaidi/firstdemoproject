@@ -12,7 +12,9 @@ OR
 __Adding two underscores in the beginning and in end__
 ### Italic
 *Adding one asterisk in beginning and in end*
+
 OR
+
 _Adding one underscores in the beginning and in end_
 ### Strikethrough
 ~~this was mistakken text~~
